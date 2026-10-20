@@ -1,10 +1,5 @@
 # Layoffs EDA: Key Findings & Business Insights
 
-**Source:** `Layoffs_EDA.sql` run against `layoffs_cleaned layoffs_copy2.csv` (1,000 rows, 9 columns)
-**Period covered:** 11 Mar 2020 – 6 Mar 2023
-
-> **Note on the numbers:** The SQL file contains queries and analyst comments but no output. The figures below were recomputed from the supplied CSV using the same logic as the queries. Rows with missing `total_laid_off` (184 of 1,000) are excluded from sums, so totals are a lower bound.
-
 ---
 
 ## 1. Dataset at a Glance
