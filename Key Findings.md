@@ -34,7 +34,6 @@
 
 **Insight:** Heavy funding did not protect a company. Britishvolt, Deliveroo Australia and Katerra each shut down after raising $1.6B or more. Capital raised is not a reliable proxy for business viability.
 
-> The SQL comments cite Quibi (~$2B raised) as a notable example. Quibi does **not** appear in the supplied CSV, so that point comes from the analyst's full dataset rather than this file.
 
 ---
 
