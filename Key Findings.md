@@ -185,3 +185,9 @@
 - The `Unknown` stage bucket (29,808) is large enough to blur stage-level conclusions.
 - 2023 is a partial year (through 6 Mar), so year-over-year comparisons for 2023 are not like-for-like.
 - This CSV has 1,000 rows and omits some companies referenced in the SQL comments (e.g. Quibi), so full-dataset figures may differ.
+
+**Author: Amir Deldar**
+
+## 📬 Contact:
+
+[LinkedIn](https://www.linkedin.com/in/amirdeldar) · [GitHub](https://github.com/amir-deldar) · Email: <callmedeldar@gmail.com>
