@@ -6,7 +6,7 @@ An exploratory data analysis of global company layoffs from **March 2020 to Marc
 
 ## Project Overview
 
-This is the second stage of a two-part SQL project. The raw layoffs data was first cleaned (duplicates removed, values standardized, null and blank values handled), producing the table `layoffs_dataset.layoffs_copy2`. This repository covers the **EDA stage**: asking questions of the cleaned data and turning query results into insights.
+This is the second stage of a two part SQL project. The raw layoffs data was first cleaned (duplicates removed, values standardized, null and blank values handled), producing the table `layoffs_dataset.layoffs_copy2`. This repository covers the **EDA stage**: asking questions of the cleaned data and turning query results into insights.
 
 ## 🗂 Repository Structure
 
@@ -73,7 +73,7 @@ The analysis in [`Layoffs_EDA.sql`](Layoffs_EDA.sql) is organized in three level
 - Companies with 100% layoffs, sorted by funds raised
 
 **2. Intermediate exploration**
-- Largest single-day layoffs vs. cumulative layoffs per company
+- Largest single day layoffs vs. cumulative layoffs per company
 - Totals by location, country, year, industry, and company stage
 - Start and end dates of the dataset
 
@@ -84,7 +84,7 @@ The analysis in [`Layoffs_EDA.sql`](Layoffs_EDA.sql) is organized in three level
 
 ## Key Findings
 
-Figures below are calculated from the 1,000-row cleaned file in this repository (193,367 layoffs where `total_laid_off` is recorded).
+Figures below are calculated from the 1,000 row cleaned file in this repository (193,367 layoffs where `total_laid_off` is recorded).
 
 ### 1. Scale of layoffs
 - The **largest single layoff event** was **Google (12,000 employees, January 2023)**, followed by **Amazon (10,000, November 2022)**, **Ericsson (8,500, February 2023)**, **Amazon again (8,000, January 2023)**, and **Dell (6,650, February 2023)**.
@@ -92,7 +92,7 @@ Figures below are calculated from the 1,000-row cleaned file in this repository 
 
 ### 2. Companies that shut down (100% laid off)
 - **61 companies** laid off their entire workforce, mostly startups that closed during the period.
-- The best-funded of them show how much capital was lost:
+- The best funded of them show how much capital was lost:
 
 | Company | Industry | Funds raised ($M) |
 |---|---|---|
