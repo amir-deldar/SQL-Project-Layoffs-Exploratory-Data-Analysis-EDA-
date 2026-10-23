@@ -5,6 +5,11 @@
 An exploratory data analysis of global company layoffs from **March 2020 to March 2023**, written entirely in **MySQL**. The project works through a cleaned layoffs dataset to uncover which companies, industries, locations, and company stages were hit hardest, and how layoffs evolved over time.
 
 ---
+
+## Project Overview
+
+This is the second stage of a two-part SQL project. The raw layoffs data was first cleaned (duplicates removed, values standardized, null and blank values handled), producing the table `layoffs_dataset.layoffs_copy2`. This repository covers the **EDA stage**: asking questions of the cleaned data and turning query results into insights.
+
 ## 🗂 Repository Structure
 
 ```
@@ -14,10 +19,6 @@ An exploratory data analysis of global company layoffs from **March 2020 to Marc
 │   └── Layoffs_EDA.sql
 └── README.md
 ```
-
-## Project Overview
-
-This is the second stage of a two-part SQL project. The raw layoffs data was first cleaned (duplicates removed, values standardized, null and blank values handled), producing the table `layoffs_dataset.layoffs_copy2`. This repository covers the **EDA stage**: asking questions of the cleaned data and turning query results into insights.
 
 ## Objectives
 
