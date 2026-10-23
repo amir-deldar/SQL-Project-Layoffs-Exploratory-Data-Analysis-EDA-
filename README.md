@@ -156,10 +156,6 @@ Top companies by total layoffs across the whole period:
 - Compare the layoff timeline with external events (interest rate hikes, market indices).
 - Replicate the analysis in Python (pandas) for comparison.
 
-## Author
-
-**Your Name**
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/) · your.email@example.com
 
 
 **Author: Amir Deldar**
