@@ -2,6 +2,12 @@
 
 ---
 
+├── data/
+│   └── layoffs_cleaned_(layoffs_copy2).csv
+├── eda/
+│   └── Layoffs_EDA.sql
+└── README.md
+
 ## 1. Dataset at a Glance
 
 | Metric | Value |
@@ -188,6 +194,6 @@
 
 **Author: Amir Deldar**
 
-## 📬 Contact:
+**Contact:**
 
 [LinkedIn](https://www.linkedin.com/in/amirdeldar) · [GitHub](https://github.com/amir-deldar) · Email: <callmedeldar@gmail.com>
