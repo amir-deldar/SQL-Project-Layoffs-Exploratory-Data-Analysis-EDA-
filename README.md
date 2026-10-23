@@ -53,7 +53,7 @@ This is the second stage of a two-part SQL project. The raw layoffs data was fir
 | `country` | Country of the company |
 | `funds_raised_millions` | Total funding raised, in USD millions |
 
-> **Data source:** *(add the link to the original public dataset here, e.g. Kaggle or layoffs.fyi)*
+> **Data source:** *(https://www.kaggle.com/datasets/swaptr/layoffs-2022)*
 
 **Missing values in the cleaned file:** `total_laid_off` (184), `percentage_laid_off` (212), `funds_raised_millions` (89), `stage` (2), `industry` (1), `date` (1). These are kept as NULL rather than guessed, and SQL aggregate functions (`SUM`, `MAX`) ignore them.
 
