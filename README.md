@@ -1,6 +1,4 @@
-# Layoffs EDA (SQL Project)
-
-# Layoffs Exploratory Data Analysis (SQL)
+# Layoffs Exploratory Data Analysis [EDA] (SQL Project)
 
 An exploratory data analysis of global company layoffs from **March 2020 to March 2023**, written entirely in **MySQL**. The project works through a cleaned layoffs dataset to uncover which companies, industries, locations, and company stages were hit hardest, and how layoffs evolved over time.
 
