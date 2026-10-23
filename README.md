@@ -1,12 +1,15 @@
 # Layoffs EDA: Key Findings & Business Insights
 
 ---
+## 🗂 Repository Structure
 
+```
 ├── data/
 │   └── layoffs_cleaned_(layoffs_copy2).csv
 ├── eda/
 │   └── Layoffs_EDA.sql
 └── README.md
+```
 
 ## 1. Dataset at a Glance
 
